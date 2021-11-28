@@ -13,7 +13,7 @@
 
 - 📝 I'm learning C/C++, html, css, javascript
 
-- 📑 All of my projects are available at [tminhdat](https://github.com/tminhdat)
+- 📑 All of my projects are available at [tminhdat](https://github.com/tminhdat?tab=repositories)
 
 
 
