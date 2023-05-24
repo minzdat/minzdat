@@ -14,7 +14,7 @@
 
 - 📝 I'm learning C/C++, html, css, javascript
 
-- 📑 All of my projects are available at [minzdat](https://github.com/tminhdat?tab=repositories)
+- 📑 All of my projects are available at [minzdat](https://github.com/minzdat?tab=repositories)
 
 
 
@@ -40,7 +40,7 @@
 
 ------
 
-[minzdat](https://github.com/tminhdat)
+[minzdat](https://github.com/minzdat?tab=repositories)
 
 Last Edited on: 28/11/2021
 
