@@ -8,7 +8,7 @@
 <div width="100%" height="100%">
 
 
-<code> <img align='right' height="auto" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="giphy"> </code>
+<code> <img align='right' width="auto" height="auto" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="giphy"> </code>
 
 - 🙋 I'm a university student
 
