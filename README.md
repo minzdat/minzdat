@@ -5,7 +5,7 @@
 
 # Nice to see you ! #
 
-[<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="45%" alt="giphy">](https://t.me/voko_aleksey)
+[<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" style="width: 45%; height: auto;" alt="giphy">](https://t.me/voko_aleksey)
 
 - 🙋 I'm a university student
 
