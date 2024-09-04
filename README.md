@@ -9,7 +9,11 @@
 - 🙋 I'm a university student
 
 - 💻 I am majoring in computer engineering
-
+  
+- 👨‍💻 I really enjoy programming
+  
+- 🧐 I enjoy exploring and learning new technologies
+  
 - 📑 All of my projects are available at [minzdat](https://github.com/minzdat?tab=repositories)
 
 
