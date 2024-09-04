@@ -9,10 +9,11 @@
 
 # Nice to see you ! #
 
-
-
-
 - 🙋 I'm a university student
+
+- 💻 I am majoring in computer engineering
+
+- 💻 I am majoring in computer engineering
 
 - 💻 I am majoring in computer engineering
   
