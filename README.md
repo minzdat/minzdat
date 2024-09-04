@@ -21,7 +21,7 @@
 <h2>Language & Tool<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
 <div align="center">
-  <code style="margin: 0 10px;"> <img  style="margin: 0 10px;" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C"> </code>
+  <code style="margin: 10px 10px;"> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C"> </code>
   <code style="margin: 0 10px;"> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++"> </code>
   <code style="margin: 0 10px;"> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#"> </code>
   <code style="margin: 0 10px;"> <img height="50" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python"> </code>
