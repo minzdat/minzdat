@@ -22,6 +22,8 @@
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/python/python-vertical.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/arduino/arduino-official.svg"> </code>
+
   
 
 
