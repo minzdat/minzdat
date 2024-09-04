@@ -8,7 +8,7 @@
 <div width="100%" height="300px">
 
 
-[<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220" height="auto" alt="giphy">](https://t.me/voko_aleksey)
+[<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220" height="100%" alt="giphy">](https://t.me/voko_aleksey)
 
 - 🙋 I'm a university student
 
