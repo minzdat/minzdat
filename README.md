@@ -5,7 +5,7 @@
 
 # Nice to see you ! #
 
-<div style="width: fit-content; height: fit-content; max-width: 100%; margin: auto;">
+<div width="100%" height="100%">
 
 
 [<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" style="width: 220px; height: auto; vertical-align: middle;" alt="giphy">](https://t.me/voko_aleksey)
