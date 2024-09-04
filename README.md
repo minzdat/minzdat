@@ -35,7 +35,7 @@
     <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
   <code><img height="50" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="AngularJS"></code>
     <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
-  <code><img height="50" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="Bootstrap"></code>
+  <code><img height="50" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase"></code>
     <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
   <code><img height="50" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code"></code>
     <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
