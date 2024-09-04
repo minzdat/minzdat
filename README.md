@@ -7,17 +7,21 @@
 
 # Nice to see you ! #
 
-[<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" style="max-width: 100%; height: auto; vertical-align: middle;" alt="giphy">](https://t.me/voko_aleksey)
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <div style="flex: 1;">
+    <p>- 🙋 I'm a university student</p>
+    <p>- 💻 I am majoring in computer engineering</p>
+    <p>- 👨‍💻 I really enjoy programming</p>
+    <p>- 🧐 I enjoy exploring and learning new technologies</p>
+    <p>- 📑 All of my projects are available at <a href="https://github.com/minzdat?tab=repositories">minzdat</a></p>
+  </div>
+  <div style="flex: 0 0 auto;">
+    <a href="https://t.me/voko_aleksey">
+      <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" style="max-width: 100%; height: auto;" alt="giphy">
+    </a>
+  </div>
+</div>
 
-- 🙋 I'm a university student
-
-- 💻 I am majoring in computer engineering
-  
-- 👨‍💻 I really enjoy programming
-  
-- 🧐 I enjoy exploring and learning new technologies
-  
-- 📑 All of my projects are available at [minzdat](https://github.com/minzdat?tab=repositories)
 
 
 
