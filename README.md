@@ -5,10 +5,10 @@
 
 # Nice to see you ! #
 
-<div width="100%" height="100%">
+<div width="100%" height="fit-content">
 
 
-<code> <img align='right' width="auto" height="auto" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="giphy"> </code>
+[<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" style="width: auto; height: auto; vertical-align: middle;" alt="giphy">](https://t.me/voko_aleksey)
 
 - 🙋 I'm a university student
 
