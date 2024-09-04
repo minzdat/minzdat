@@ -12,10 +12,6 @@
 - 🙋 I'm a university student
 
 - 💻 I am majoring in computer engineering
-
-- 💻 I am majoring in computer engineering
-
-- 💻 I am majoring in computer engineering
   
 - 👨‍💻 I really enjoy programming
   
