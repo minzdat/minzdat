@@ -3,14 +3,12 @@
 <!--suppress HtmlDeprecatedAttribute -->
 
 
-
-
-
 # Nice to see you ! #
+
+<div>
 
 
 [<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" style="width: 220px; height: auto; vertical-align: middle;" alt="giphy">](https://t.me/voko_aleksey)
-
 
 - 🙋 I'm a university student
 
@@ -23,7 +21,7 @@
 - 📑 All of my projects are available at [minzdat](https://github.com/minzdat?tab=repositories)
 
 
-
+</div>
 
 
 <h2>Language & Tool<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
